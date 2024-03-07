@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
 
-<h1 align="center"><b>Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">, I'm Shashwat Shandilya</b></h1>
+<h1 align="center"><b>Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">, I'm Atul Yadav</b></h1>
 
 
 <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stp2003&label=Profile%20views&color=blueviolet&style=flat-square" alt="stp2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atuly31&label=Profile%20views&color=blueviolet&style=flat-square" alt="atuly31" /> </p>
 <br>
 
 <img align="centre" alt="Coding" width="450" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
@@ -26,27 +26,27 @@
 <br>
 <br>
 
-![Shashwat's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=stp2003&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Shashwat's GitHub stats](https://github-readme-stats-atuly31.vercel.app/api?username=atuly31&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 <br>
 
-![Shashwat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stp2003&theme=tokyonight&border_radius=7.6)
+![Shashwat's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atuly31&theme=tokyonight&border_radius=7.6)
 
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stp2003&theme=onedark)](https://github.com/stp2003/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=atuly31&theme=onedark)](https://github.com/atuly31/github-profile-trophy)
 
 <br>
 
-- 🔭 I’m currently working on [150 Days DSA Code](https://github.com/stp2003/Dsa-150-Days-of-Code)
+- 🔭 I’m currently working on [150 Days DSA Code](https://github.com/atuly31/Dsa-150-Days-of-Code)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stp2003](https://github.com/stp2003)
+- 👨‍💻 All of my projects are available at [https://github.com/atuly31](https://github.com/atuly31)
 
 <br>
 
@@ -69,17 +69,17 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=stp2003&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-atuly31.vercel.app/api/top-langs/?username=atuly31&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/atuly31/github-readme-stats) <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stp2003&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atuly31&theme=tokyonight&border_radius=7.6)
 
 <br>
 
 # 📊 GitHub Contribution Graph:
 
-[![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stp2003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atuly31&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stp2003&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atuly31&theme=tokyonight&border_radius=7.6)
 
 <br>
 
@@ -92,7 +92,7 @@
 <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stp2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=atuly31&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <br>
@@ -100,7 +100,7 @@
 
 # 📊 GitHub Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stp2003&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=atuly31&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 
 
 <br>
