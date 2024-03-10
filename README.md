@@ -1,6 +1,6 @@
-![MasterHead](<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="300">
 <br><br>
-)
+
 
 <h1 align="center"><b>Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45">, I'm Atul Yadav</b></h1>
 
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20JAVA%20|%20Cpp%20|%20Python;%20Android%20App%20Developer%20|%20Flutter%20Developer;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;%20DS%20|%20Algorithms%20|%20Cpp%20|%20Python;%20MERN STACK|%20Web%20Developer%20|;Division%203%20on%20Codechef%20(2%20Stars);Always%20learning%20new%20things&center=true&width=550&height=50"></a>
 </p>
 
 
