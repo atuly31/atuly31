@@ -88,7 +88,7 @@
 ![](https://leetcard.jacoblin.cool/atuly31?ext=activity)
 
 ## 💡 Gfg Statistics
-[![Atul's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=atul)](https://auth.geeksforgeeks.org/user/atuly31)
+[![Atul's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=atuly31)](https://auth.geeksforgeeks.org/user/atuly31)
 
 <br>
 
