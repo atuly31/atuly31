@@ -44,7 +44,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [150 Days DSA Code](https://github.com/atuly31/Dsa-150-Days-of-Code)
+- 🔭 I’m currently working on [150 Days DSA Code](https://github.com/atuly31/Leetcode-Solutions)
 
 - 🌱 I’m currently learning **MERN STACK**
 
