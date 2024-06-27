@@ -40,7 +40,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atuly31&theme=onedark)](https://github.com/atuly31/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=atuly31&theme=onedark)](https://github.com/atuly31/github-profile-trophy)
 
 <br>
 
