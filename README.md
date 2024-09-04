@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **atuly3051@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13oSC7hTeHJyUH69vPahCZMA_6Vi-TjAy/view?usp=drive_link](https://drive.google.com/file/d/13oSC7hTeHJyUH69vPahCZMA_6Vi-TjAy/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1c_cMmlPMp0hAlTanwac8Qko_A49__yH2/view?usp=sharing](https://drive.google.com/file/d/1c_cMmlPMp0hAlTanwac8Qko_A49__yH2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
