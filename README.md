@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atuly31" alt="atuly31" /></a> </p>
 
-- 🔭 I’m currently working on **Movers and Packers**
+- 🔭 I’m currently working on **Movers & Packers**
 
 - 🌱 I’m currently learning **Cloud technologies**
 
