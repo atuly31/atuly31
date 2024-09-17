@@ -29,15 +29,21 @@
 
 
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atuly31&" alt="atuly31" /></p>
+
+
+
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-atuly31.vercel.app/api/top-langs/?username=atuly31&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/atuly31/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atuly31&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/atuly31/github-readme-stats)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atuly31&theme=tokyonight&border_radius=7.6)
 
 <br>
+
 
 # 📊 GitHub Contribution Graph:
 
