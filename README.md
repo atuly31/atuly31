@@ -37,7 +37,7 @@
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atuly31&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/atuly31/github-readme-stats)
+[![Top Langs](https://github-readme-stats-atuly31.vercel.app/api/top-langs/?username=atuly31&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/atuly31/github-readme-stats) <br>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atuly31&theme=tokyonight&border_radius=7.6)
